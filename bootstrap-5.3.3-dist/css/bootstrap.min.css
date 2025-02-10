@@ -9833,6 +9833,12 @@ fieldset:disabled .btn {
   .m-md-5 {
     margin: 3rem !important;
   }
+  .m-md-6 {
+    margin: 15rem !important;
+  }
+  .m-md-7 {
+    margin: 19rem !important;
+  }
   .m-md-auto {
     margin: auto !important;
   }
@@ -9859,6 +9865,14 @@ fieldset:disabled .btn {
   .mx-md-5 {
     margin-right: 3rem !important;
     margin-left: 3rem !important;
+  }
+  .mx-md-6 {
+    margin-right: 15rem !important;
+    margin-left: 19rem !important;
+  }
+  .mx-md-7 {
+    margin-right: 15rem !important;
+    margin-left: 19rem !important;
   }
   .mx-md-6 {
     margin-right: 5rem !important;
@@ -9892,6 +9906,14 @@ fieldset:disabled .btn {
     margin-top: 3rem !important;
     margin-bottom: 3rem !important;
   }
+  .mx-md-6 {
+    margin-top: 15rem !important;
+    margin-bottom: 19rem !important;
+  }
+  .mx-md-7 {
+    margin-top: 15rem !important;
+    margin-bottom: 5rem !important;
+  }
   .my-md-auto {
     margin-top: auto !important;
     margin-bottom: auto !important;
@@ -9914,6 +9936,12 @@ fieldset:disabled .btn {
   .mt-md-5 {
     margin-top: 3rem !important;
   }
+  .mt-md-6 {
+    margin-top: 15rem !important;
+  }
+  .mt-md-7 {
+    margin-top: 19rem !important;
+  }
   .mt-md-auto {
     margin-top: auto !important;
   }
@@ -9934,6 +9962,12 @@ fieldset:disabled .btn {
   }
   .me-md-5 {
     margin-right: 3rem !important;
+  }
+  .me-md-6 {
+    margin-right: 15rem !important;
+  }
+  .me-md-7 {
+    margin-right: 19rem !important;
   }
   .me-md-auto {
     margin-right: auto !important;
@@ -9956,6 +9990,12 @@ fieldset:disabled .btn {
   .mb-md-5 {
     margin-bottom: 3rem !important;
   }
+  .mt-md-6 {
+    margin-bottom: 15rem !important;
+  }
+  .mt-md-7 {
+    margin-bottom: 19rem !important;
+  }
   .mb-md-auto {
     margin-bottom: auto !important;
   }
@@ -9977,9 +10017,11 @@ fieldset:disabled .btn {
   .ms-md-5 {
     margin-left: 3rem !important;
   }
-  .ms-md-6 {
-    margin-right: 5rem !important;
-    margin-left: 5rem !important;
+  .mt-md-6 {
+    margin-left: 15rem !important;
+  }
+  .mt-md-7 {
+    margin-left: 19rem !important;
   }
   .ms-md-auto {
     margin-left: auto !important;
@@ -10402,6 +10444,12 @@ fieldset:disabled .btn {
   .m-lg-5 {
     margin: 3rem !important;
   }
+  .m-md-6 {
+    margin: 15rem !important;
+  }
+  .m-lg-7 {
+    margin: 19rem !important;
+  }
   .m-lg-auto {
     margin: auto !important;
   }
@@ -10428,6 +10476,14 @@ fieldset:disabled .btn {
   .mx-lg-5 {
     margin-right: 3rem !important;
     margin-left: 3rem !important;
+  }
+  .mx-md-6 {
+    margin-right: 15rem !important;
+    margin-left: 19rem !important;
+  }
+  .mx-lg-7 {
+    margin-right: 15rem !important;
+    margin-left: 19rem !important;
   }
   .mx-lg-auto {
     margin-right: auto !important;
@@ -10457,6 +10513,14 @@ fieldset:disabled .btn {
     margin-top: 3rem !important;
     margin-bottom: 3rem !important;
   }
+  .my-lg-6 {
+    margin-top: 15rem !important;
+    margin-bottom: 19rem !important;
+  }
+  .my-lg-7 {
+    margin-top: 15rem !important;
+    margin-bottom: 19rem !important;
+  }
   .my-lg-auto {
     margin-top: auto !important;
     margin-bottom: auto !important;
@@ -10479,6 +10543,12 @@ fieldset:disabled .btn {
   .mt-lg-5 {
     margin-top: 3rem !important;
   }
+  .mt-lg-6 {
+    margin-top: 15rem !important;
+  }
+  .mt-lg-7 {
+    margin-top: 19rem !important;
+  }
   .mt-lg-auto {
     margin-top: auto !important;
   }
@@ -10499,6 +10569,12 @@ fieldset:disabled .btn {
   }
   .me-lg-5 {
     margin-right: 3rem !important;
+  }
+  .me-lg-6 {
+    margin-right: 15rem !important;
+  }
+  .me-lg-7 {
+    margin-right: 19rem !important;
   }
   .me-lg-auto {
     margin-right: auto !important;
@@ -10521,6 +10597,12 @@ fieldset:disabled .btn {
   .mb-lg-5 {
     margin-bottom: 3rem !important;
   }
+  .mt-lg-6 {
+    margin-bottom: 15rem !important;
+  }
+  .mt-lg-7 {
+    margin-bottom: 19rem !important;
+  }
   .mb-lg-auto {
     margin-bottom: auto !important;
   }
@@ -10541,6 +10623,12 @@ fieldset:disabled .btn {
   }
   .ms-lg-5 {
     margin-left: 3rem !important;
+  }
+  .ms-lg-6 {
+    margin-left: 15rem !important;
+  }
+  .ms-lg-7 {
+    margin-left: 19rem !important;
   }
   .ms-lg-auto {
     margin-left: auto !important;
