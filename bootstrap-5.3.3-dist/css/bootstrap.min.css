@@ -919,7 +919,7 @@ progress {
 .gy-5 {
   --bs-gutter-y: 3rem;
 }
-@media (min-width: 576px) {
+@media (min-width: 400px) {
   .col-sm {
     flex: 1 0 0%;
   }
